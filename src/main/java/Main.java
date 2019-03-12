@@ -34,6 +34,10 @@ public class Main {
         t2.setDaemon(true);
         t1.start();
         t2.start();
+        dfgdfgdfg dfgdfgdfg
+
+                dfgdfgdfg
+
         t2.interrupt();
         try {
             t1.join();
