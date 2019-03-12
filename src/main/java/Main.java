@@ -32,8 +32,8 @@ public class Main {
         MyThread myThread2 = new MyThread(v);
         Thread t2 = new Thread(myThread2);
         t2.setDaemon(true);
-
-        t1.start();
+ytu
+        t1.start();dfrt
         t2.start();
         t2.interrupt();
         try {
