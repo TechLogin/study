@@ -35,7 +35,7 @@ public class Main {
         t1.start();
         t2.start();
         dfgdfgdfg dfgdfgdfg
-
+7777777777777777777777777777777777777777777777777777777777 gi
         t2.interrupt();
         try {
             t1.join();
