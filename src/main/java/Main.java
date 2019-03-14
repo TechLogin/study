@@ -34,10 +34,7 @@ public class Main {
         t2.setDaemon(true);
         t1.start();
         t2.start();
-        dfgdfgdfg dfgdfgdfg
-7777777777777777777777777777777777777777777777777777777777 546
-        t2.interrupt();
-        try {
+git         try {
             t1.join();
             t2.join();
         } catch (InterruptedException e) {
